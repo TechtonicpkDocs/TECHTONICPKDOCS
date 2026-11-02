@@ -1,16 +1,26 @@
-## Hi there 👋
+Muhammad Riyaz — TECHTONICPK
 
-<!--
-**TechtonicpkDocs/TECHTONICPKDOCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digital System Architect · Layyah, Punjab, Pakistan
 
-Here are some ideas to get you started:
+Phone-first software craftsman turning small-shop headaches into tap-only apps — offline Android, Urdu Nastaliq typography & print engines. Zero servers, pure craft.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I build
+
+Offline-first Android business apps (18 apps and counting)
+Urdu/Arabic typography engineering & print systems
+WhatsApp-integrated shop workflows
+
+Currently
+
+Learning in public: Termux, Git, Python — and now bending open source to my will (TechTonicPipe: a VPN-proof video player fork).
+
+Principles
+
+No fake claims, ever — honest earning, customer's headache reduced
+Security that is real and practised, never a burden
+First impression is the last impression
+
+Find me
+
+YouTube: @TECHTONICPKDocs
+WhatsApp: 03200989317
